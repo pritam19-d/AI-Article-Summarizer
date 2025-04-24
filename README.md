@@ -74,3 +74,4 @@ Choose the folder where you extracted the extension files.
 ## 🎉 Done!
 
 Your extension is now **successfully installed** in your browser!
+<img src="./Images/Screenshot7.png" alt="Select Folder"><br />
