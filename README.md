@@ -11,7 +11,7 @@
 Go to your **Downloads** folder and find the file named  
 **AI-Article-Summerizer-master.zip**.
 
-![Locate ZIP](./images/Screenshot2.png)
+<img src="./images/Screenshot2.png" alt="Locate Zip">
 
 ---
 
@@ -33,7 +33,7 @@ Downloads/
 
 Inside the extracted folder, you will find the extension files as shown below.
 
-![Extension Files](./images/Screenshot1.png)
+<img src="./images/Screenshot1.png" alt="Extension Files">
 
 Copy the folder to your desired directory.
 
@@ -43,7 +43,7 @@ Copy the folder to your desired directory.
 
 Click on the **Extensions** button in your browser.
 
-![Open Extensions](./images/Screenshot3.png)
+<img src="./images/Screenshot3.png" alt="Open Extensions">
 
 ---
 
@@ -51,7 +51,7 @@ Click on the **Extensions** button in your browser.
 
 Click on **Manage Extensions**.
 
-![Manage Extensions](./images/Screenshot4.png)
+<img src="./images/Screenshot4.png" alt="Manage Extensions">
 
 ---
 
@@ -59,7 +59,7 @@ Click on **Manage Extensions**.
 
 Click the **Load Unpacked** button.
 
-![Load Unpacked](./images/Screenshot5.png)
+<img src="./images/Screenshot5.png" alt="Load Unpacked">
 
 ---
 
@@ -67,7 +67,7 @@ Click the **Load Unpacked** button.
 
 Choose the folder where you extracted the extension files.
 
-![Select Folder](./images/Screenshot6.png)
+<img src="./images/Screenshot6.png" alt="Select Folder">
 
 ---
 
