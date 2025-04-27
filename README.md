@@ -1,15 +1,15 @@
-## 🚀 How to Install the AI Article Summerizer Extension
+## 🚀 How to Install the AI Article Summarizer Extension
 
 ### 1. **Download the Extension**
 
-[Download the ZIP file here](https://github.com/pritam19-d/AI-Article-Summerizer/archive/refs/heads/master.zip)
+[Download the ZIP file here](https://github.com/pritam19-d/AI-Article-Summarizer/archive/refs/heads/master.zip)
 
 ---
 
 ### 2. **Locate the Downloaded ZIP**
 
 Go to your **Downloads** folder and find the file named  
-**AI-Article-Summerizer-master.zip**.
+**AI-Article-Summarizer-master.zip**.
 
 <img src="./Images/Screenshot2.png" alt="Locate Zip">
 
@@ -18,13 +18,13 @@ Go to your **Downloads** folder and find the file named
 ### 3. **Extract the ZIP File**
 
 Double-click the ZIP file to extract it. You will see a folder named  
-**AI-Article-Summerizer-master**. Open this folder to access the extension files.
+**AI-Article-Summarizer-master**. Open this folder to access the extension files.
 
 ```plaintext
 Downloads/
-└── AI-Article-Summerizer-master.zip
-  └── AI-Article-Summerizer-master/
-    ├── AI Article Summerizer
+└── AI-Article-Summarizer-master.zip
+  └── AI-Article-Summarizer-master/
+    ├── AI Article Summarizer
     ├── ...
 ```
 ---
